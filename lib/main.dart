@@ -1,4 +1,5 @@
-import 'package:african_covid19_tracker/homepage.dart';
+import 'package:african_covid19_tracker/pages/countries_page.dart';
+import 'package:african_covid19_tracker/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
